@@ -1,4 +1,3 @@
-<img width="717" alt="스크린샷 2025-02-28 오후 11 39 24" src="https://github.com/user-attachments/assets/67185951-2dd3-4c50-bb43-634ef0ef3e9a" /># 🚌 서울시 생활정보 기반 대중교통 수요 분석
 <div align="center">
   <img src="https://github.com/Jangrae/img/blob/master/bus.png?raw=true" width="700px" />
   <p><i>서울시 대중교통 시스템 최적화를 위한 데이터 분석 프로젝트</i></p>
