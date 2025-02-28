@@ -155,10 +155,9 @@
 </div>
 
 ## 📈 상관관계 히트맵
-<img width="717" alt="스크린샷 2025-02-28 오후 11 39 24" src="https://github.com/user-attachments/assets/f4ec8995-8d40-40a8-8c33-47f01b0cac1b" />
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x500?text=상관관계+히트맵" alt="상관관계 히트맵" width="700px" />
+<img width="717" alt="스크린샷 2025-02-28 오후 11 39 24" src="https://github.com/user-attachments/assets/f4ec8995-8d40-40a8-8c33-47f01b0cac1b" />
 </div>
 
 ## 📝 프로젝트 배운 점
