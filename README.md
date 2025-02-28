@@ -106,11 +106,11 @@
 
 ### ✅ 가설 1: 승객수 대비 노선수 분석
 <div align="center">
-
-<img width="867" alt="스크린샷 2025-02-28 오후 11 54 40" src="https://github.com/user-attachments/assets/32944348-8163-4cd1-af9b-3f794cf0b5ba" />
-<img width="867" alt="스크린샷 2025-02-28 오후 11 54 48" src="https://github.com/user-attachments/assets/f99963c3-87f9-4164-b657-ff9ebb28bf1f" />
-<img width="867" alt="스크린샷 2025-02-28 오후 11 54 59" src="https://github.com/user-attachments/assets/0e014774-5093-4c69-9aae-1f7cd0a582c8" />
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img width="32%" alt="승객수 대비 노선수 분석 1" src="https://github.com/user-attachments/assets/32944348-8163-4cd1-af9b-3f794cf0b5ba" />
+  <img width="32%" alt="승객수 대비 노선수 분석 2" src="https://github.com/user-attachments/assets/f99963c3-87f9-4164-b657-ff9ebb28bf1f" />
+  <img width="32%" alt="승객수 대비 노선수 분석 3" src="https://github.com/user-attachments/assets/0e014774-5093-4c69-9aae-1f7cd0a582c8" />
+</div>
 </div>
 
 - 노선수와 승차/하차 총 승객수 간 **강한 양의 상관관계** 발견
@@ -170,18 +170,16 @@
 - 통계적 가설 검정을 통한 **데이터 분석 경험**
 - 다양한 데이터셋을 통합하여 **인사이트 도출**하는 능력 향상
 
-## 👨‍💻 참여자
-
+## 👨‍💻 참여자 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/100x100?text=팀원" width="100px" />
-        <br />
-        <sub><b>KT AIVLE School</b></sub>
-        <br />
-        <sub>미니프로젝트 팀</sub>
-      </td>
+      <td align="center"><b>구종한</b></td>
+      <td align="center"><b>김효연</b></td>
+      <td align="center"><b>박지성</b></td>
+      <td align="center"><b>조강윤</b></td>
+      <td align="center"><b>최재영</b></td>
+      <td align="center"><b>황은비</b></td>
     </tr>
   </table>
 </div>
@@ -190,5 +188,5 @@
 
 <div align="center">
   <p>본 프로젝트는 KT AIVLE School 1차 미니프로젝트로 진행되었습니다.</p>
-  <p>© 2024 KT AIVLE School 미니프로젝트 팀</p>
+  <p>© 2024 KT AIVLE School 6기 미니프로젝트 1차</p>
 </div>
