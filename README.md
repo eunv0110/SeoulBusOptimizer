@@ -43,10 +43,7 @@
 ## 🛠️ 기술 스택
 
 <details>
-<summary><b>사용 기술 상세 보기</b></summary>
-<br>
-  
-- **언어**: Python
+  - **언어**: Python
 - **데이터 처리 및 분석**:
   - Pandas: 데이터프레임 조작 및 전처리
   - NumPy: 수치 연산 및 배열 처리
@@ -160,7 +157,8 @@
 ## 📈 상관관계 히트맵
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x500?text=상관관계+히트맵" alt="상관관계 히트맵" width="700px" />
+  <img src="![Uploading image.png…]()
+" alt="상관관계 히트맵" width="700px" />
 </div>
 
 ## 📝 프로젝트 배운 점
