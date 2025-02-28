@@ -107,6 +107,9 @@
 ### ✅ 가설 1: 승객수 대비 노선수 분석
 <div align="center">
 
+<img width="867" alt="스크린샷 2025-02-28 오후 11 54 40" src="https://github.com/user-attachments/assets/32944348-8163-4cd1-af9b-3f794cf0b5ba" />
+<img width="867" alt="스크린샷 2025-02-28 오후 11 54 48" src="https://github.com/user-attachments/assets/f99963c3-87f9-4164-b657-ff9ebb28bf1f" />
+<img width="867" alt="스크린샷 2025-02-28 오후 11 54 59" src="https://github.com/user-attachments/assets/0e014774-5093-4c69-9aae-1f7cd0a582c8" />
 
 </div>
 
