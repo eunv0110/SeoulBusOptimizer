@@ -106,7 +106,8 @@
 
 ### ✅ 가설 1: 승객수 대비 노선수 분석
 <div align="center">
-  <img src="https://via.placeholder.com/600x400?text=승차_노선비율+분석+그래프" alt="승차_노선비율 분석 그래프" width="600px" />
+
+
 </div>
 
 - 노선수와 승차/하차 총 승객수 간 **강한 양의 상관관계** 발견
@@ -125,7 +126,7 @@
 
 ### ✅ 가설 4: 서비스업종/교육시설 분포도와 버스 이용
 <div align="center">
-  <img src="https://via.placeholder.com/600x400?text=서비스업+분포도+분석+그래프" alt="서비스업 분포도 분석 그래프" width="600px" />
+<img width="1184" alt="스크린샷 2025-02-28 오후 11 53 54" src="https://github.com/user-attachments/assets/5b648fe2-f115-4160-918e-eee24ba6e8aa" />
 </div>
 
 - 서비스업종과 교육시설의 합계와 평균 승하차 인원 간 **유의미한 상관관계** 발견
