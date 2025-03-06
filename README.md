@@ -40,19 +40,50 @@
 
 ## 🛠️ 기술 스택
 
-<details>
-  - **언어**: Python
-- **데이터 처리 및 분석**:
-  - Pandas: 데이터프레임 조작 및 전처리
-  - NumPy: 수치 연산 및 배열 처리
-- **데이터 시각화**:
-  - Matplotlib: 기본 차트 및 그래프 생성
-  - Seaborn: 고급 통계 시각화
-- **통계 분석**:
-  - SciPy: 상관관계 분석 및 가설 검정
-- **개발 환경**:
-  - Jupyter Notebook: 코드 작성 및 분석 문서화
-</details>
+<div>
+  <table>
+    <tr>
+      <th colspan="2" align="center">분류</th>
+      <th align="center">기술</th>
+      <th align="center">용도</th>
+    </tr>
+    <tr>
+      <td rowspan="5" width="10%">💻</td>
+      <td width="20%"><b>언어</b></td>
+      <td width="25%">Python</td>
+      <td width="45%">전체 프로젝트 개발</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>데이터 처리</b></td>
+      <td>Pandas</td>
+      <td>데이터프레임 조작 및 전처리</td>
+    </tr>
+    <tr>
+      <td>NumPy</td>
+      <td>수치 연산 및 배열 처리</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>시각화</b></td>
+      <td>Matplotlib</td>
+      <td>기본 차트 및 그래프 생성</td>
+    </tr>
+    <tr>
+      <td>Seaborn</td>
+      <td>고급 통계 시각화</td>
+    </tr>
+    <tr>
+      <td rowspan="2">🤖</td>
+      <td><b>통계 분석</b></td>
+      <td>SciPy</td>
+      <td>상관관계 분석 및 가설 검정</td>
+    </tr>
+    <tr>
+      <td><b>개발 환경</b></td>
+      <td>Jupyter Notebook</td>
+      <td>코드 작성 및 분석 문서화</td>
+    </tr>
+  </table>
+</div>
 
 ## 📝 문제 정의
 
