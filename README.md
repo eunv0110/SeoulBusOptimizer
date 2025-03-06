@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/Jangrae/img/blob/master/bus.png?raw=true" width="700px" />
-  <p><i>서울시 대중교통 시스템 최적화를 위한 데이터 분석 프로젝트</i></p>
 </div>
 
 <p align="center">
@@ -182,11 +181,4 @@
       <td align="center"><b>황은비</b></td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center">
-  <p>본 프로젝트는 KT AIVLE School 1차 미니프로젝트로 진행되었습니다.</p>
-  <p>© 2024 KT AIVLE School 6기 미니프로젝트 1차</p>
 </div>
